@@ -1,0 +1,32 @@
+body {
+ background-image: url("JUST-STARS-NAVY-R3.jpg");
+}
+
+h1 {
+  color: orange;
+font-family:verdana;
+size=30px;
+text-align: center;
+}
+
+h2 {
+font-family: courier;
+text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+<style>
+a:link {
+  color: pink; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
