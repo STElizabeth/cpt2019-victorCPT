@@ -10,7 +10,7 @@ if (ans===1){
     if(yy==="C"){
         document.getElementById("question").value="You are right";
 	document.body.style.backgroundImage = "url('correct.png')";
-        Score++
+        score++
 	
         
     }
